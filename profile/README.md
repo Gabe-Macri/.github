@@ -5,7 +5,7 @@
 
   <!-- SYSTEM STATUS BADGES -->
   <p>
-    <a href="https://github.com/G1A1B1E">
+    <a href="https://github.com/Gabe-Macri">
       <img src="https://img.shields.io/badge/STATUS-ONLINE%20%26%20BUILDING-10b981?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0f172a" alt="Status" />
     </a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -72,40 +72,40 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4> <a href="https://github.com/G1A1B1E/PROJECT_1">Project Nebula</a></h4>
+      <h4> <a href="https://github.com/Gabe-Macri/PROJECT_1">Project Nebula</a></h4>
       <p><code>Go</code> <code>gRPC</code> <code>Docker</code> <code>Redis</code></p>
       <p>A high-throughput distributed task scheduler capable of handling 50k+ concurrent jobs with sub-millisecond latency failover.</p>
       <p>
-        <a href="https://github.com/G1A1B1E/PROJECT_1"><img src="https://img.shields.io/badge/Source_Code-1e293b?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Gabe-Macri/PROJECT_1"><img src="https://img.shields.io/badge/Source_Code-1e293b?style=flat-square&logo=github" /></a>
         <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4> <a href="https://github.com/G1A1B1E/PROJECT_2">Vortex CLI</a></h4>
+      <h4> <a href="https://github.com/Gabe-Macri/PROJECT_2">Vortex CLI</a></h4>
       <p><code>Rust</code> <code>WebAssembly</code> <code>GitHub Actions</code></p>
       <p>A blazingly fast developer workflow automation CLI tool that scaffolds microservices and configures CI/CD pipelines in seconds.</p>
       <p>
-        <a href="https://github.com/G1A1B1E/PROJECT_2"><img src="https://img.shields.io/badge/Source_Code-1e293b?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Gabe-Macri/PROJECT_2"><img src="https://img.shields.io/badge/Source_Code-1e293b?style=flat-square&logo=github" /></a>
         <a href="https://crates.io"><img src="https://img.shields.io/badge/Docs_%26_Package-10b981?style=flat-square&logo=rust&logoColor=white" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4> <a href="https://github.com/G1A1B1E/PROJECT_3">Synapse UI</a></h4>
+      <h4> <a href="https://github.com/Gabe-Macri/PROJECT_3">Synapse UI</a></h4>
       <p><code>TypeScript</code> <code>React</code> <code>Tailwind</code></p>
       <p>An accessible, zero-runtime overhead component library engineered for data-dense financial and telemetry dashboards.</p>
       <p>
-        <a href="https://github.com/G1A1B1E/PROJECT_3"><img src="https://img.shields.io/badge/Source_Code-1e293b?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Gabe-Macri/PROJECT_3"><img src="https://img.shields.io/badge/Source_Code-1e293b?style=flat-square&logo=github" /></a>
         <a href="https://your-demo-link.com"><img src="https://img.shields.io/badge/Storybook-8b5cf6?style=flat-square&logo=storybook&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>️ <a href="https://github.com/G1A1B1E/PROJECT_4">Aegis Auth</a></h4>
+      <h4>️ <a href="https://github.com/Gabe-Macri/PROJECT_4">Aegis Auth</a></h4>
       <p><code>Node.js</code> <code>PostgreSQL</code> <code>OAuth2</code></p>
       <p>Drop-in authentication microservice featuring passwordless WebAuthn, RBAC, and real-time anomaly detection.</p>
       <p>
-        <a href="https://github.com/G1A1B1E/PROJECT_4"><img src="https://img.shields.io/badge/Source_Code-1e293b?style=flat-square&logo=github" /></a>
+        <a href="https://github.com/Gabe-Macri/PROJECT_4"><img src="https://img.shields.io/badge/Source_Code-1e293b?style=flat-square&logo=github" /></a>
       </p>
     </td>
   </tr>
@@ -116,8 +116,8 @@
 ### `// TELEMETRY & ACTIVITY METRICS`
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=G1A1B1E&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=10b981&text_color=94a3b8" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1A1B1E&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabe-Macri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=10b981&text_color=94a3b8" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe-Macri&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 </div>
 
 <details>
@@ -143,5 +143,5 @@
 ---
 
 <div align="center">
-  <sub><code>[EOF]</code> Crafted with precision • <b>@G1A1B1E</b></sub>
+  <sub><code>[EOF]</code> Crafted with precision • <b>@Gabe-Macri</b></sub>
 </div>
