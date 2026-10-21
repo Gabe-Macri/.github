@@ -20,28 +20,6 @@
   </p>
 </div>
 
----
-
-### `$ whoami --verbose`
-
-```yaml
-apiVersion: developer.profile/v1
-kind: SoftwareEngineer
-metadata:
-  name: "Your Name"
-  handle: "@G1A1B1E"
-  location: "Earth // Remote"
-  role: "Full-Stack & Systems Engineer"
-spec:
-  mission: "Engineering resilient, high-throughput applications with clean architecture."
-  current_focus:
-    - Distributed Systems & Cloud Native Architecture
-    - High-Performance Backend APIs
-    - Developer Experience (DX) & Tooling Automation
-  core_philosophy: "Write code that is easy to delete, easy to test, and scales effortlessly."
-```
-
----
 
 ### `// ARCHITECTURE & TECH MATRIX`
 
